@@ -1,0 +1,23 @@
+TRT-6001-EntropyCalibration2
+data: 4000890a
+(Unnamed Layer* 0) [Convolution]_output: 40dd0c43
+conv1: 40e858f3
+norm1: 3f8bda57
+pool1: 3f8bda57
+(Unnamed Layer* 4) [Convolution]_output: 40ed2259
+conv2: 40a77ca6
+norm2: 3f8bda55
+pool2: 3f8bda55
+(Unnamed Layer* 8) [Convolution]_output: 4044a966
+conv3: 40062e74
+(Unnamed Layer* 10) [Convolution]_output: 3fabad5a
+conv4: 3fa355c5
+(Unnamed Layer* 12) [Convolution]_output: 3f90d6cc
+conv5: 3f7212c5
+pool5: 3f7212c5
+(Unnamed Layer* 15) [Fully Connected]_output: 3ea77499
+fc6: 3e486367
+(Unnamed Layer* 17) [Fully Connected]_output: 3dd8977f
+fc7: 3d9ee004
+fc8: 3dab839a
+prob: 3a3d828a
